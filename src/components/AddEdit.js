@@ -32,7 +32,7 @@ class AddEdit extends React.Component {
 
 
     render() {
-        return <div className="row" >
+        return <div className="row">
             <div className="col-md-6 offset-md-3">
                 <form onSubmit={this.onFormSubmit}>
                     <div className="form-group">
